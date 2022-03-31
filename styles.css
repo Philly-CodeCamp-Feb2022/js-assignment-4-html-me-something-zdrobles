@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table {
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#mainHeading {
+    color: red;
+    font-size: xx-large;
+}
+
+#testP {
+    /* doing this for no reason */
+}
+
+.funParagraph {
+    color: green;
+}
+
+.story {
+    font-family: cursive;
+}
+
+img {
+    border-radius: 50%;
+}
